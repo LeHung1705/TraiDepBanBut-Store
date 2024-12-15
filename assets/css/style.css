@@ -94,7 +94,7 @@ body {
   left: 0;
 }
 
-.users {
+#users {
   width: 35px;
   cursor: pointer;
   height: 35px;
